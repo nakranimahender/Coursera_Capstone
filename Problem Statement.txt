@@ -1,2 +1,4 @@
 To compare the famous cities of the world as tourist destination based on the venues nearby. 
-There are many international tourist destinations in the world like Paris, London, Sydney and many more. How to decide which tourist destination will be suitable for a person. It would be better if we know that we are guaranteed to have new experience or going to enjoy the tour. 
+There are many international tourist destinations in the world like Paris, London, Sydney and many more. 
+How to decide which tourist destination will be suitable for a person. 
+It would be better if we know that we are guaranteed to have new experience or going to enjoy the tour. 
